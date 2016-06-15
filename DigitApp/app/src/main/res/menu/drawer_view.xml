@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+
+
+    <item android:id="@+id/mas_leidas_drawer_view"
+          android:icon="@drawable/taza"
+          android:title="Más leidas"
+        />
+    <item android:id="@+id/deporte_drawer_view"
+          android:icon="@drawable/pelota_futbol"
+          android:title="Deporte"
+        />
+    <item android:id="@+id/entretenimiento_drawer_view"
+          android:icon="@drawable/tele"
+          android:title="Entretenimiento"
+        />
+    <item android:id="@+id/social_drawer_view"
+          android:icon="@drawable/redes"
+          android:title="Social"
+        />
+    <item android:id="@+id/moda_drawer_view"
+          android:icon="@drawable/vestido"
+          android:title="Moda"
+        />
+
+    </group>
+</menu>
